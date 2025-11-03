@@ -78,5 +78,5 @@ $$\sum_i R_i^{(l)} = \sum_j R_j^{(l+1)} = f(x)$$
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/Layer-Wise_Relevance_Propagation_LRP_XAI_Audio-MNIST.git
+   git clone https://github.com/Sudip-329/Layer-Wise_Relavance_Propagation_LRP_XAI_Audio-MNIST.git
    cd Layer-Wise_Relevance_Propagation_LRP_XAI_Audio-MNIST
