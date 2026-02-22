@@ -7,7 +7,7 @@
   <img alt="Dataset" src="https://img.shields.io/badge/Dataset-AudioMNIST-blueviolet.svg">
 </p>
 
----
+--- 
 
 ## 📘 Overview
 This project demonstrates the application of **Layer-Wise Relevance Propagation (LRP)** - an **Explainable AI (XAI)** technique - on a **Convolutional Neural Network (CNN)** trained over the **AudioMNIST dataset**.  
